@@ -1,18 +1,17 @@
---- 
+---?image=https://images.pexels.com/photos/591652/play-fun-blocks-block-591652.jpeg 
 
-## Get'em while they're young
+## @color[black](Get'em while they're young)
 
-
----
-
-## siven og kjersti
+Note:
+- presentere siv
+- presentere kjersti
 
 
 ---
 
 ## Context
 
-@quote[the circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood.](Oxford English Dictionary)
+@quote[the circumstances that form the setting for an event, statement, or idea, and in terms of which it can be fully understood.]
 
 Note: 
 - What is context?
@@ -24,11 +23,12 @@ Note:
 - same behaviour in different contexts gives different results
 
 
----
+---?image=https://raw.githubusercontent.com/sivhollup/inf112/master/v19/communication-01/img/misunderstanding.jpg&position=right&size=55% 100%
 
-## Assumptions
-
-@quote[A thing that is accepted as true or as certain to happen, without proof.](Oxford English Dictionary)
+@snap[span-45 west]
+### Assumptions
+@quote[A thing that is accepted as true or as certain to happen, without proof.]
+@snapend
 
 Note: 
 - Everything we take for granted
@@ -42,11 +42,11 @@ Note:
 - body language?
 
 
----
+---?image=https://images.pexels.com/photos/1319572/pexels-photo-1319572.jpeg
 
 ## Sequences and ordering
 
-@quote[A particular order in which related things follow each other.](Oxford English Dictionary)
+@quote[A particular order in which related things follow each other.]
 
 Note: 
 - putting events after one another
@@ -58,7 +58,7 @@ Note:
 
 ## Determinism
 
-@quote[In computer science, a deterministic algorithm is an algorithm which, given a particular input, will always produce the same output, with the underlying machine always passing through the same sequence of states](Wikipedia)
+@quote[In computer science, a deterministic algorithm is an algorithm which, given a particular input, will always produce the same output, with the underlying machine always passing through the same sequence of states]
 
 
 Note: 
@@ -68,11 +68,11 @@ Note:
 - even simpler: doing the same routine gives the same result
 
 
----
+---?image=https://images.pexels.com/photos/296301/pexels-photo-296301.jpeg
 
-## Execution and behaviour 
-
-(everyone keeps their heads)
+@snap[north-west]
+## @color[black](Execution and behaviour)
+@snapend
 
 Note:
 - executing a program
@@ -87,7 +87,7 @@ Note:
 
 ## Abstraction
 
-@quote[The quality of dealing with ideas rather than events.](Oxford English Dictionary)
+@quote[The quality of dealing with ideas rather than events.]
 
 Note: 
 - Something which exists only as an idea.
@@ -102,7 +102,7 @@ Note:
 
 ## Equality
 
-@quote[Equal: Being the same in quantity, size, degree, or value.](Oxford English Dictionary)
+@quote[Equal: Being the same in quantity, size, degree, or value.]
 
 Note: 
 - separating ideas, objects, movements, what is really the same and what is different
@@ -114,7 +114,7 @@ Note:
 
 ## Comparison
 
-@quote[Estimate, measure, or note the similarity or dissimilarity between.](Oxford English Dictionary)
+@quote[Estimate, measure, or note the similarity or dissimilarity between.]
 
 Note:
 - how do we compare different events, objects? 
