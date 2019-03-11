@@ -3,22 +3,33 @@
 ## @color[#394A53](Get'em while they're young)
 
 Note:
-- who is siv: developer at kantega and associate professor at uib. Made a game for
-  preschoolers last year and feels strongly that we should start teaching
+- who is siv: developer at kantega and associate professor at uib. Made a game
+  for preschoolers last year and feels strongly that we should start teaching
   concepts necessary for learning how computing works as early as possible. 
-- who is kjersti: 
-
+- who is kjersti: pre school teacher 
+- A little background:
+- we learn about programming too late
+- many of the thought processes we use are universal
+- problem solving in a computational way is useful in other arenas as well
+- basic programming concepts are alreadyy all around us
 
 ---?image=https://images.pexels.com/photos/214573/pexels-photo-214573.jpeg
 
+@snap[south]
+## @color[#160A07](Goal)
+@snapend
 
 Note:
-- goal for today: make small or larger programming games for non-programmers
+- today: make games for non-programmers
+- small or large game
+- can involve a computer, but not a requirement
+- thought processes and concepts that are important
 - what is the goal of the games we make?
-- learn someone about computational thinking, and the discrete (as in
-  mathematics) realm, about problem solving the "computational way"
+- show computational thinking (beregningsbasert tankegang)
+- show discrete (as in mathematics) realm (diskret matte)
+- show problem solving the "computational way"
 - start with some basic concepts that could be a basis for a game 
-
+- not exhaustive list, we'll probably come up with more
 
 
 ---?image=https://images.pexels.com/photos/1011334/pexels-photo-1011334.jpeg
@@ -28,7 +39,6 @@ Note:
 @snapend
 
 Note: 
-- What is context?
 - the circumstances that form the setting for an event, statement, or idea, and
   in terms of which it can be fully understood.
 - circumstances (omstendigheter, sammenheng)
@@ -47,6 +57,7 @@ Note:
 @snapend
 
 Note: 
+- antagelser
 - A thing that is accepted as true or as certain to happen, without proof
 - Everything we take for granted
 - closely connected to context, because in a given context we have a lot of
@@ -67,6 +78,7 @@ Note:
 @snapend
 
 Note: 
+- rekkefølge
 - A particular order in which related things follow each other.
 - putting events after one another
 - ordering: something comes before something else
@@ -136,11 +148,14 @@ Note:
 - when are two things the same? 
 
 
----?color=#394A53
+---?image=https://images.pexels.com/photos/939700/pexels-photo-939700.jpeg&color=#394A53&size=90%
 
+
+@snap[south]
 ## Comparison
 
 a < b
+@snapend
 
 Note:
 - Estimate, measure, or note the similarity or dissimilarity between.
@@ -206,14 +221,104 @@ Note:
 ---?image=https://images.pexels.com/photos/160822/yoschi-fig-funny-colorful-160822.jpeg&color=#394A53
 
 @snap[east]
-## Things to<br/> think about
+## Planning
 @snapend
 
 Note:
 - what is the goal of the game?
 - who is the target audience?
-- what can you expect them to know?
 - how much time do you think one game will last?
-- how long will the target audience be able to keep their focus?
 - do you need to prepare anything?
 - how many can play the game?
+- kjersti takes over! 
+
+
+---?image=https://images.pexels.com/photos/311268/pexels-photo-311268.jpeg
+
+@snap[north-west]
+## @color[#394A53](Group size)
+
+Note: 
+- Size of the group depends of age and interst (once again). 3-4 is optimal but
+  in a preschool we don’t get many of these oportuneties. If the group are
+  equally interested and motivated/qurious it’s ok to have a larger group, but I
+  would’nt recomend more than 6-8 for best outcome.
+
+
+---?image=https://images.pexels.com/photos/745365/pexels-photo-745365.jpeg
+
+@snap[north-east]
+## Time frame
+@snapend
+
+Note:
+- How long can the kids keep consentrated? It depends of interested we manage to
+  keep them. Same goes for agegroup, the older they are, the more they can take
+  part in the activity by themselves. The oldest kids are better talkers and
+  therfor can participate verbally as well.  For all agegroups it’s best with
+  short instuctions and simple rules, otherwise they may lose interest before
+  even starting..
+
+
+---?image=img/20181005_105106.jpg&size=55%&position=right
+
+
+@snap[span-45 west]
+### Participation
+@snapend
+
+Note:
+- What do we have to think about when we’re making stuff for them??
+- Kids love to be challenged, they love to use their brain, they love to move,
+  they love to find out things by themselves – they can count several numbers
+  (individual differences of course), they can relate to rules – though it’s
+  more fun to break them...
+- they are thrilled when they can take part in new activities where they can take the lead
+- great sense of humor
+
+
+---?image=img/IMG_1032.jpg&size=70%
+
+---?image=img/IMG_1020.jpg&size=55%
+
+---?image=img/20190111_103820.jpg&size=55%
+
+---?image=https://images.pexels.com/photos/1076813/pexels-photo-1076813.jpeg
+
+@snap[south-west]
+## @color[#394A53](Derailing)
+@snapend
+
+Note: 
+- when working with kids it’s important to be aware of their – sometimes weird -
+  way of thinking, it’s not always the same as the adults. Often they suggest
+  other outcomes of the activity than we have planned and going along with their
+  ideas is a good way to keep them motivated. We also have to let them now that
+  it’s ok to fail, and that it can be a good thing to do things over again, then
+  the solution may even be a better one.
+
+
+---?image=https://images.pexels.com/photos/1104014/pexels-photo-1104014.jpeg&color=#394A53&size=90%
+
+@snap[north]
+## @color[#394A53](Expectations)
+@snapend
+
+Note:
+- Soo…what can we expect from an average 5 or 6- year old?? ….EVERYTHING!!!
+- while the 5 year olds can be in great harmony with themselves, the 6 year olds
+  can be both amazingly incredible and amazingly irritably at the same time.
+- there are some differenses in 5 and 6 years olds; the 5 year olds are much
+  more in peace with themselves while the 6 year old is struggling with what we
+  call the early puberty; they are growing in fast pace, moodchanges, lacking
+  control of their body and so on.. these things can be of value to think about
+  while we are planning activities for them
+- do not make the mistake of comparing 5- and 6 year olds, or kids in similar
+  age, there are huge differenses; maturing, interests, intelligence…
+- Logic thinking, great ability to reflection, find soulutions, remodel and do
+  over to get it right, they can focus and hold their consentration for a longer
+  period as long as they find the activity interesting and challenging (for the
+  most. There will always be differences in a similar agegroup, but here we are
+  talking about the average kid)
+
+
