@@ -3,15 +3,14 @@
 ## @color[#394A53](Get'em while they're young)
 
 Note:
+- we learn about programming too late
+- many of the thought processes we use are universal
+- problem solving is useful in other arenas as well
+- basic programming concepts are alreadyy all around us
 - who is siv: developer at kantega and associate professor at uib. Made a game
   for preschoolers last year and feels strongly that we should start teaching
   concepts necessary for learning how computing works as early as possible. 
 - who is kjersti: pre school teacher 
-- A little background:
-- we learn about programming too late
-- many of the thought processes we use are universal
-- problem solving in a computational way is useful in other arenas as well
-- basic programming concepts are alreadyy all around us
 
 ---?image=https://images.pexels.com/photos/214573/pexels-photo-214573.jpeg
 
@@ -21,6 +20,7 @@ Note:
 
 Note:
 - today: make games for non-programmers
+- explore existing games
 - small or large game
 - can involve a computer, but not a requirement
 - thought processes and concepts that are important
@@ -47,6 +47,8 @@ Note:
 - the stuff that weaves together meaning
 - same behaviour in different contexts gives different results
 - computer is stupid (does not have context other than what you give)
+- going straight forwards is ok in context where there are no obstacles
+- going straight where you have obstacles in the way gives different result
 
 
 
@@ -63,11 +65,9 @@ Note:
 - closely connected to context, because in a given context we have a lot of
   assumptions
 - examples: we read from left to right (but not in japan)
-- natural reading order: high to low
 - right and left (facing each other)
 - recipies: take two eggs
 - look into eyes: trust or challenge?
-- body language?
 
 
 
@@ -84,6 +84,38 @@ Note:
 - ordering: something comes before something else
 - order matters: if you change the order, the sequence becomes different
 
+
+
+---?image=https://images.pexels.com/photos/939700/pexels-photo-939700.jpeg&color=#394A53&size=90%
+
+
+@snap[south]
+## Comparison
+
+a < b
+@snapend
+
+Note:
+- Estimate, measure, or note the similarity or dissimilarity between.
+- how do we compare different events, objects? 
+- closely related to equality
+- other related concepts: greater than, lesser than
+
+
+
+---?image=https://c.pxhere.com/photos/47/f5/balance_roberval_uplands-1374013.jpg!d&color=#394A53
+
+@snap[north-east]
+## @color[#394A53](Equality)
+@snapend
+
+
+Note: 
+- Equal: Being the same in quantity, size, degree, or value.
+- Equality: The state of being equal, especially in status, rights, or opportunities
+- also related to: 
+- separating ideas, objects, movements, what is really the same and what is different
+- when are two things the same? 
 
 ---?image=https://images.pexels.com/photos/209728/pexels-photo-209728.jpeg
 
@@ -131,37 +163,6 @@ Note:
 - Different levels of abstraction (different things are important in different
   contexts)
 - can we make ideas out of real things? Events? How do we perform abstraction?
-
-
----?image=https://c.pxhere.com/photos/47/f5/balance_roberval_uplands-1374013.jpg!d&color=#394A53
-
-@snap[north-east]
-## @color[#394A53](Equality)
-@snapend
-
-
-Note: 
-- Equal: Being the same in quantity, size, degree, or value.
-- Equality: The state of being equal, especially in status, rights, or opportunities
-- also related to: 
-- separating ideas, objects, movements, what is really the same and what is different
-- when are two things the same? 
-
-
----?image=https://images.pexels.com/photos/939700/pexels-photo-939700.jpeg&color=#394A53&size=90%
-
-
-@snap[south]
-## Comparison
-
-a < b
-@snapend
-
-Note:
-- Estimate, measure, or note the similarity or dissimilarity between.
-- how do we compare different events, objects? 
-- closely related to equality
-- other related concepts: greater than, lesser than
 
 
 ---?image=https://images.pexels.com/photos/54101/magic-cube-cube-puzzle-play-54101.jpeg&color=#394A53
